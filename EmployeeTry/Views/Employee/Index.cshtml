@@ -1,0 +1,266 @@
+﻿<script src="~/js/jquery.min.js"></script>
+<html>
+<body>
+    <input type="submit" onclick="add()" value="AddNewEmployee" />
+    <br />
+    <input type="submit" onclick="display()" value="Display Employee" />
+    <br />
+    <input type="submit" onclick="Phone()" value="Display Phone Number" />
+
+    <div id="addEmp" style="display:none">
+        <div>
+            <lable>Id</lable>
+            <input type="number" id="id" />
+        </div>
+        <div>
+            <lable>First Name</lable>
+            <input type="text" id="fname" />
+        </div>
+        <div>
+            <lable>Last Name</lable>
+            <input type="text" id="lname" />
+        </div>
+        <div>
+            <lable>Phone Number</lable>
+            <input type="tel" id="phone" />
+        </div>
+        <div>
+            <lable>Mail </lable>
+            <input type="text" id="mail" />
+        </div>
+        <div>
+            <lable>Address</lable>
+            <input type="text" id="address" />
+        </div>
+        <div>
+            <lable>Salary</lable>
+            <input type="number" id="salary" />
+        </div>
+        <div id="net" style="display:none">
+            <lable>Net Salary</lable>
+            <input type="number" id="netSal" />
+        </div>
+        <div>
+            <lable>Employee Type</lable>
+            <select id="type">
+                <option value="permanent">Permanent</option>
+                <option value="temporory">Temporory</option>
+
+            </select>
+
+        </div>
+        <div>
+            <input type="submit" value="Add Employee" onclick="onAddEmployee()" class="action" />
+
+        </div>
+
+    </div>
+
+    <div id="getId" style="display:none">
+
+        <div>
+            <lable>Enter Id</lable>
+            <input type="number" id="id1" />
+        </div>
+        <div>
+            <input type="submit" value="Get Employee" onclick="displayEmp()" />
+        </div>
+
+
+    </div>
+
+    <div id="getPhone" style="display:none">
+
+        <div>
+            <lable>Enter Id</lable>
+            <input type="number" id="id2" />
+            <div id="displayph" style="display:none"><span>Phone number :</span><span id="phno"></span></div>
+        </div>
+        <div>
+            <input type="submit" value="Get Phone Number" onclick="displayPhone()" />
+        </div>
+
+
+    </div>
+
+<div id="noData" style="display:none"> No Data Found</div>
+</body>
+</html>
+
+<script>
+
+    function add() {
+
+        $("#getPhone").css("display", "none")
+        $("#displayPhoneNumber").css("display", "none")
+        $("#addEmp").css("display", "block")
+        $("#getId").css("display", "none")
+        $("#displayEmployee").css("display", "none")
+    }
+
+    function display() {
+
+        $("#getPhone").css("display", "none")
+        $("#displayPhoneNumber").css("display", "none")
+        $("#getId").css("display", "block")
+        $("#net").css("display", "block");
+        $("#addEmp").css("display", "none")
+        $("#displayEmployee").css("display", "none");
+
+    }
+    function displayEmp() {
+        var Data = { id: $("#id1").val() }
+        postData('/Employee/GetEmployeeData', Data,
+            function (response) {
+                clearData();
+                if (response.message.toLowerCase() == "success") {
+                    if (response.employeeDeatils!=null) {
+                        $("#net").css("display", "block");
+                        $("#getPhone").css("display", "none")
+                        $("#displayPhoneNumber").css("display", "none")
+                        $("#displayEmployee").css("display", "block")
+                        $("#addEmp").css("display", "block")
+                        $("#getId").css("display", "none")
+                        $(".action").css("display", "none")
+                 
+
+
+                        //assigning the values
+                        $("#id").val(response.employeeDeatils.employeeId);
+                        $("#fname").val(response.employeeDeatils.firstName);
+                            $("#lname").val(response.employeeDeatils.lastName);
+                            $("#mail").val(response.employeeDeatils.email);
+                            $("#address").val(response.employeeDeatils.address);
+                            $("#salary").val(response.employeeDeatils.basic);
+                            $("#phone").val(response.employeeDeatils.phone);
+                            $("#type").val(response.employeeDeatils.employeeType);
+                            $("#netSal").val(response.employeeDeatils.netSalary);
+                    }
+                    else {
+                        $("#noData").css("display", "block");
+                    }
+
+                }
+                else {
+                    console.log(response);
+                }
+            },
+            function (response) {
+                console.log(response);
+            });
+
+
+
+    }
+    function displayPhone() {
+        var Data =
+        {
+            id: $("#id2").val()
+        };
+        postData('/Employee/GetEmployeePhoneNumber', Data,
+            function (response) {
+                if (response.message.toLowerCase() == "success") {
+                    $("#phno").text("")
+
+                    $("#noData").css("display", "none");
+                    $("#getPhone").css("display", "block")
+                    $("#displayPhoneNumber").css("display", "block")
+                    $("#getId").css("display", "none")
+                    $("#addEmp").css("display", "none")
+                    $("#displayEmployee").css("display", "none")
+                    //assigning the values
+                    //$("#id").val(response.employeeDeatils.id);
+                    $("#displayph").css("display", "block")
+                    $("#phno").text(response.employeePhone)
+
+                }
+                else {
+                    console.log(response);
+                }
+            },
+            function (response) {
+                console.log(response);
+            }
+        );
+
+    }
+    function Phone() {
+        $("#noData").css("display", "none");
+        $("#getPhone").css("display", "block")
+        $("#displayPhoneNumber").css("display", "block")
+        $("#getId").css("display", "none")
+        $("#addEmp").css("display", "none")
+        $("#displayEmployee").css("display", "none")
+
+
+
+
+
+    }
+
+    function onAddEmployee() {
+
+        var data = {
+            EmployeeId: parseInt($("#id").val()),
+            FirstName: $("#fname").val(),
+            LastName: $("#lname").val(),
+            email: $("#mail").val(),
+            Address: $("#address").val(),
+            basic: parseFloat($("#salary").val()),
+            Phone: $("#phone").val().toString(),
+            EmployeeType: $("#type").val(),
+        };
+        postData('/Employee/AddNewEmployee/', data,
+            function (response) {
+                $("#addEmp").css("display", "none")
+                clearData();
+            },
+            function (response) {
+                console.log(response);
+            });
+    }
+    //function getData(data, url, successCallback, errorCallback) {
+    //    $.ajax({
+    //        type: "GET",
+    //        url: url,
+    //        data: data,
+    //        async: false,
+    //        //contentType: "application/json;charset=utf-8",
+    //        dataType: "json",
+    //        success: function (responce) {
+    //            return successCallback(responce)
+    //        },
+    //        error: function (responce) {
+    //            return errorCallback(responce)
+    //        }
+    //    })
+    //}
+
+    function postData(url, data, successCallback, errorCallback) {
+        $.ajax({
+            type: 'POST',
+            url: url,
+            data: data,
+            async: false,
+            dataType: "json",
+            success: function (responce) {
+                return successCallback(responce)
+            },
+            error: function (responce) {
+                return errorCallback(responce)
+            }
+        })
+    }
+
+    function clearData() {
+        $("#id").val('');
+        $("#fname").val('');
+            $("#lname").val('');
+            $("#mail").val('');
+            $("#address").val('');
+            $("#salary").val('');
+            $("#phone").val('');
+            $("#type").val('');
+            $("#netSal").val('')
+    }
+</script>

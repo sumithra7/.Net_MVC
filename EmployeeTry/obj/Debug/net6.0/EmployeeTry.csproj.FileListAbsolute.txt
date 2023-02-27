@@ -1,0 +1,236 @@
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.staticwebassets.runtime.json
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.exe
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.deps.json
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.runtimeconfig.json
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.dll
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.pdb
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.AssemblyInfo.cs
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeTry.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeTry.props
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeTry.props
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeTry.props
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\bundle\EmployeeTry.styles.css
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeTry.bundle.scp.css
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.dll
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\refint\EmployeeTry.dll
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.pdb
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.genruntimeconfig.cache
+C:\Users\HP\source\repos\EmployeeTry\EmployeeTry\obj\Debug\net6.0\ref\EmployeeTry.dll
+D:\CL\EmployeeTry\EmployeeTry\bin\Debug\net6.0\appsettings.Development.json
+D:\CL\EmployeeTry\EmployeeTry\bin\Debug\net6.0\appsettings.json
+D:\CL\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.staticwebassets.runtime.json
+D:\CL\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.exe
+D:\CL\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.deps.json
+D:\CL\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.runtimeconfig.json
+D:\CL\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.dll
+D:\CL\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.pdb
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.AssemblyReference.cache
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.GeneratedMSBuildEditorConfig.editorconfig
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.AssemblyInfoInputs.cache
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.AssemblyInfo.cs
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.CoreCompileInputs.cache
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.MvcApplicationPartsAssemblyInfo.cache
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.RazorAssemblyInfo.cache
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.RazorAssemblyInfo.cs
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeTry.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeTry.props
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeTry.props
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeTry.props
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.build.json
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.development.json
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\bundle\EmployeeTry.styles.css
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeTry.bundle.scp.css
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.dll
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\refint\EmployeeTry.dll
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.pdb
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.genruntimeconfig.cache
+D:\CL\EmployeeTry\EmployeeTry\obj\Debug\net6.0\ref\EmployeeTry.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.AssemblyReference.cache
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.GeneratedMSBuildEditorConfig.editorconfig
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.AssemblyInfoInputs.cache
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.AssemblyInfo.cs
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.CoreCompileInputs.cache
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.MvcApplicationPartsAssemblyInfo.cache
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.RazorAssemblyInfo.cache
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.RazorAssemblyInfo.cs
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\refint\EmployeeTry.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.pdb
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\appsettings.Development.json
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\appsettings.json
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.staticwebassets.runtime.json
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.exe
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.deps.json
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.runtimeconfig.json
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.pdb
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Azure.Core.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Azure.Identity.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Humanizer.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.CodeDom.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Text.Json.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeTry.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeTry.props
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeTry.props
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeTry.props
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.build.json
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.development.json
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\bundle\EmployeeTry.styles.css
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeTry.bundle.scp.css
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.CopyComplete
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.genruntimeconfig.cache
+D:\CL\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\ref\EmployeeTry.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.staticwebassets.runtime.json
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.exe
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.deps.json
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.runtimeconfig.json
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\EmployeeTry.pdb
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.AssemblyInfo.cs
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeTry.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeTry.props
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeTry.props
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeTry.props
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\bundle\EmployeeTry.styles.css
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeTry.bundle.scp.css
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.csproj.CopyComplete
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\refint\EmployeeTry.dll
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.pdb
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\EmployeeTry.genruntimeconfig.cache
+C:\Users\HP\Desktop\CirrusLabs\Evaluation\Projects\EmployeeTry (2)\EmployeeTry\EmployeeTry\obj\Debug\net6.0\ref\EmployeeTry.dll
